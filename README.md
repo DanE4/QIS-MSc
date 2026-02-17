@@ -2,6 +2,8 @@
 
 Interactive Quartz v4 collection of notes for the QIS MSc program.
 
+**View the notes at:** [dane4.github.io/QIS-MSc](https://dane4.github.io/QIS-MSc/)
+
 ## What this repo is
 
 This repository hosts one connected knowledge graph across compulsory and restricted-elective courses, so students can move between notes and shared concepts without losing context.
