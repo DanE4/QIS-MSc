@@ -1,6 +1,6 @@
 ---
 title: "Experimental Techniques in Quantum Technology"
-tags: ["dtu-10386", "elective", "june"]
+tags: ["dtu-10386", "restricted-elective", "june"]
 author: "Course Staff"
 course: "DTU:10386"
 week: "overview"

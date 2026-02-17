@@ -1,6 +1,6 @@
 ---
 title: "Scientific Computing in Quantum Information Science"
-tags: ["dtu-10387", "elective", "august"]
+tags: ["dtu-10387", "restricted-elective", "august"]
 author: "Course Staff"
 course: "DTU:10387"
 week: "overview"

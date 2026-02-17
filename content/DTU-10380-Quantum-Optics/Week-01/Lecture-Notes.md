@@ -1,6 +1,6 @@
 ---
 title: "Quantum Optics - Week 01"
-tags: ["dtu-10380", "elective", "spring"]
+tags: ["dtu-10380", "restricted-elective", "spring"]
 author: "Course Staff"
 course: "DTU:10380"
 week: "1"

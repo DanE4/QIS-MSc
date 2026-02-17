@@ -1,6 +1,6 @@
 ---
 title: "Quantum Error Correction - Week 01"
-tags: ["ndak24010", "elective", "block-2"]
+tags: ["ndak24010", "restricted-elective", "block-2"]
 author: "Course Staff"
 course: "NDAK24010"
 week: "1"

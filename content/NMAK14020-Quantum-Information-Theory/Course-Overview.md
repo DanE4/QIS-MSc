@@ -1,6 +1,6 @@
 ---
 title: "Quantum Information Theory"
-tags: ["nmak14020", "elective", "block-2"]
+tags: ["nmak14020", "restricted-elective", "block-2"]
 author: "Course Staff"
 course: "NMAK14020"
 week: "overview"

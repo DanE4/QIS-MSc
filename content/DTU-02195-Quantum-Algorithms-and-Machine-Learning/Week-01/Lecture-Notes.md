@@ -1,6 +1,6 @@
 ---
 title: "Quantum Algorithms and Machine Learning - Week 01"
-tags: ["dtu-02195", "elective", "spring"]
+tags: ["dtu-02195", "restricted-elective", "spring"]
 author: "Course Staff"
 course: "DTU:02195"
 week: "1"

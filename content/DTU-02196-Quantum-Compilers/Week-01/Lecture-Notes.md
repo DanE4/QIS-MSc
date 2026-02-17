@@ -1,6 +1,6 @@
 ---
 title: "Quantum Compilers - Week 01"
-tags: ["dtu-02196", "elective", "spring"]
+tags: ["dtu-02196", "restricted-elective", "spring"]
 author: "Course Staff"
 course: "DTU:02196"
 week: "1"

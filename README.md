@@ -4,7 +4,7 @@ Interactive Quartz v4 collection of notes for the QIS MSc program.
 
 ## What this repo is
 
-This repository hosts one connected knowledge graph across core and elective courses, so students can move between notes and shared concepts without losing context.
+This repository hosts one connected knowledge graph across core and restricted-elective courses, so students can move between notes and shared concepts without losing context.
 
 Core features:
 - Obsidian-style wikilinks (`[[Concept]]`)

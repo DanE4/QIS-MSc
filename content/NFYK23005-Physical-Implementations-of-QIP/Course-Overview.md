@@ -1,6 +1,6 @@
 ---
 title: "Physical Implementations of Quantum Information Processing"
-tags: ["nfyk23005", "elective", "block-2"]
+tags: ["nfyk23005", "restricted-elective", "block-2"]
 author: "Course Staff"
 course: "NFYK23005"
 week: "overview"
