@@ -19,56 +19,78 @@ Core features:
 content/
   NFYK23002-Introduction-to-Quantum-Information-Science/
     resources/
+      EXAMS.md
+    Course-Overview.md
     Week-01/
       Lecture-Notes.md
       resources/
   NMAK23007-Introduction-to-Quantum-Computing/
     resources/
+      EXAMS.md
+    Course-Overview.md
     Week-01/
       Lecture-Notes.md
       resources/
   DTU-10385-Quantum-Information-Technology/
     resources/
+      EXAMS.md
+    Course-Overview.md
     Week-01/
       Lecture-Notes.md
       resources/
   NDAK24010-Quantum-Error-Correction/
     resources/
+      EXAMS.md
+    Course-Overview.md
     Week-01/
       Lecture-Notes.md
       resources/
   NMAK14020-Quantum-Information-Theory/
     resources/
+      EXAMS.md
+    Course-Overview.md
     Week-01/
       Lecture-Notes.md
       resources/
   NFYK23005-Physical-Implementations-of-QIP/
     resources/
+      EXAMS.md
+    Course-Overview.md
     Week-01/
       Lecture-Notes.md
       resources/
   DTU-02196-Quantum-Compilers/
     resources/
+      EXAMS.md
+    Course-Overview.md
     Week-01/
       Lecture-Notes.md
       resources/
   DTU-02195-Quantum-Algorithms-and-Machine-Learning/
     resources/
+      EXAMS.md
+    Course-Overview.md
     Week-01/
       Lecture-Notes.md
       resources/
   DTU-10386-Experimental-Techniques-in-Quantum-Technology/
     resources/
+      EXAMS.md
+    Course-Overview.md
     Week-01/
       Lecture-Notes.md
       resources/
   DTU-10380-Quantum-Optics/
     resources/
+      EXAMS.md
+    Course-Overview.md
     Week-01/
       Lecture-Notes.md
       resources/
   DTU-10387-Scientific-Computing-in-QIS/
     resources/
+      EXAMS.md
+    Course-Overview.md
     Week-01/
       Lecture-Notes.md
       resources/
@@ -77,8 +99,9 @@ content/
 ```
 
 Resource rule:
-- Use `content/<Course>/resources/` for course-wide material.
-- Use `content/<Course>/Week-XX/resources/` for week-specific material.
+- Use `content/<Course>/Course-Overview.md` for course-level overview pages.
+- Use `content/<Course>/resources/EXAMS.md` for course-wide files and exam links.
+- Use `content/<Course>/Week-XX/resources/README.md` for week-specific material.
 
 ## Contribution model
 

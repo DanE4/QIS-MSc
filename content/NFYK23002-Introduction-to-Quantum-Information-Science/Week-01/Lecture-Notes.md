@@ -7,13 +7,20 @@ week: "1"
 audience: "non-majors, majors"
 ---
 
-> [!summary] TL;DR
-> This page is the Week 01 landing note for Introduction to Quantum Information Science.
+> [!summary] Week focus
+> Add the specific Week 01 lecture summary, exercises, and key takeaways here.
 
-- Course code: NFYK23002
-- Teaching block/term: Block 1
-- ECTS: 7.5
+## Week 01 agenda
 
-## Related shared concepts
+- Add topic 1
+- Add topic 2
+- Add topic 3
 
-- Add links to real shared concept notes in `content/Shared-Wiki/` as they are created.
+## Materials
+
+- [[NFYK23002-Introduction-to-Quantum-Information-Science/Week-01/resources/README|Week 01 Resources]]
+
+## Course context
+
+- [[NFYK23002-Introduction-to-Quantum-Information-Science/Course-Overview|Course Overview]]
+- [[NFYK23002-Introduction-to-Quantum-Information-Science/resources/EXAMS|Course Resources and Exams]]
