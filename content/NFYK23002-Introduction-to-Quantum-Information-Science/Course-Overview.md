@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Quantum Information Science"
-tags: ["nfyk23002", "core", "block-1"]
+tags: ["nfyk23002", "compulsory", "block-1"]
 author: "Course Staff"
 course: "NFYK23002"
 week: "overview"

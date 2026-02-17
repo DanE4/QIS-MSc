@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Quantum Computing - Week 01"
-tags: ["nmak23007", "core", "block-1"]
+tags: ["nmak23007", "compulsory", "block-1"]
 author: "Course Staff"
 course: "NMAK23007"
 week: "1"

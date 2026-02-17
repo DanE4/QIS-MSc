@@ -1,6 +1,6 @@
 ---
 title: "Quantum Information Technology - Week 01"
-tags: ["dtu-10385", "core", "spring"]
+tags: ["dtu-10385", "compulsory", "spring"]
 author: "Course Staff"
 course: "DTU:10385"
 week: "1"
