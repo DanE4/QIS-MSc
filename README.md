@@ -1,1 +1,105 @@
 # QIS-MSc
+
+Interactive Quartz v4 collection of notes for the QIS MSc program.
+
+## What this repo is
+
+This repository hosts one connected knowledge graph across core and elective courses, so students can move between notes and shared concepts without losing context.
+
+Core features:
+- Obsidian-style wikilinks (`[[Concept]]`)
+- Graph view and backlinks
+- Hover previews (popovers)
+- KaTeX math rendering for advanced notation
+- GitHub Pages deployment via GitHub Actions
+
+## Repository structure
+
+```text
+content/
+  NFYK23002-Introduction-to-Quantum-Information-Science/
+    resources/
+    Week-01/
+      Lecture-Notes.md
+      resources/
+  NMAK23007-Introduction-to-Quantum-Computing/
+    resources/
+    Week-01/
+      Lecture-Notes.md
+      resources/
+  DTU-10385-Quantum-Information-Technology/
+    resources/
+    Week-01/
+      Lecture-Notes.md
+      resources/
+  NDAK24010-Quantum-Error-Correction/
+    resources/
+    Week-01/
+      Lecture-Notes.md
+      resources/
+  NMAK14020-Quantum-Information-Theory/
+    resources/
+    Week-01/
+      Lecture-Notes.md
+      resources/
+  NFYK23005-Physical-Implementations-of-QIP/
+    resources/
+    Week-01/
+      Lecture-Notes.md
+      resources/
+  DTU-02196-Quantum-Compilers/
+    resources/
+    Week-01/
+      Lecture-Notes.md
+      resources/
+  DTU-02195-Quantum-Algorithms-and-Machine-Learning/
+    resources/
+    Week-01/
+      Lecture-Notes.md
+      resources/
+  DTU-10386-Experimental-Techniques-in-Quantum-Technology/
+    resources/
+    Week-01/
+      Lecture-Notes.md
+      resources/
+  DTU-10380-Quantum-Optics/
+    resources/
+    Week-01/
+      Lecture-Notes.md
+      resources/
+  DTU-10387-Scientific-Computing-in-QIS/
+    resources/
+    Week-01/
+      Lecture-Notes.md
+      resources/
+  Shared-Wiki/
+  assets/
+```
+
+Resource rule:
+- Use `content/<Course>/resources/` for course-wide material.
+- Use `content/<Course>/Week-XX/resources/` for week-specific material.
+
+## Contribution model
+
+- Everyone can commit notes directly to main.
+- Pull requests are optional and useful when someone wants feedback before publishing.
+
+Full contributor instructions: `CONTRIBUTING.md`.
+
+## Local development
+
+```bash
+git clone --recurse-submodules <your-repo-url>
+cd QIS-MSc
+./scripts/sync-content.sh
+cd quartz
+npm ci
+npx quartz build --serve
+```
+
+## Deployment
+
+- Workflow: `.github/workflows/deploy.yml`
+- Trigger: push to `main` (and manual dispatch)
+- Output: GitHub Pages site from `quartz/public`

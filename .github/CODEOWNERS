@@ -1,0 +1,18 @@
+# Default reviewers
+* @DanE4
+
+# Shared concept wiki requires review
+/content/Shared-Wiki/ @DanE4
+
+# Course-specific reviewer routing
+/content/NFYK23002-Introduction-to-Quantum-Information-Science/ @DanE4
+/content/NMAK23007-Introduction-to-Quantum-Computing/ @DanE4
+/content/DTU-10385-Quantum-Information-Technology/ @DanE4
+/content/NDAK24010-Quantum-Error-Correction/ @DanE4
+/content/NMAK14020-Quantum-Information-Theory/ @DanE4
+/content/NFYK23005-Physical-Implementations-of-QIP/ @DanE4
+/content/DTU-02196-Quantum-Compilers/ @DanE4
+/content/DTU-02195-Quantum-Algorithms-and-Machine-Learning/ @DanE4
+/content/DTU-10386-Experimental-Techniques-in-Quantum-Technology/ @DanE4
+/content/DTU-10380-Quantum-Optics/ @DanE4
+/content/DTU-10387-Scientific-Computing-in-QIS/ @DanE4
