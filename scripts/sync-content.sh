@@ -7,5 +7,6 @@ if [[ ! -d quartz ]]; then
 fi
 
 cp -f quartz.config.ts quartz.layout.ts quartz/
+cp -f styles/custom.scss quartz/quartz/styles/
 mkdir -p quartz/content
 rsync -a --delete content/ quartz/content/

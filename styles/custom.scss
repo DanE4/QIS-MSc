@@ -1,0 +1,10 @@
+@use "./base.scss";
+
+iframe[src$=".pdf"],
+.pdf-embed iframe,
+.embed-container iframe[src*=".pdf"] {
+  width: 100%;
+  min-height: 85vh;
+  border: 1px solid var(--lightgray);
+  border-radius: 5px;
+}
