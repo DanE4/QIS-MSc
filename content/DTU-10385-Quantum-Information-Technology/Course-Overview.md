@@ -1,6 +1,6 @@
 ---
 title: "Quantum Information Technology"
-tags: ["dtu-10385", "compulsory", "spring"]
+tags: [dtu-10385, compulsory, spring]
 author: "Course Staff"
 course: "DTU:10385"
 week: "overview"
@@ -53,5 +53,11 @@ audience: "non-majors, majors"
 
 ## Navigation
 
-- [[DTU-10385-Quantum-Information-Technology/Week-01/Lecture-Notes|Week 01 Notes]]
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Lecture-Notes|Quantum Theory Background]]
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Light/Lecture-Notes|Quantum Light]]
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Sensing/Lecture-Notes|Quantum Sensing]]
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Computing/Lecture-Notes|Quantum Computing]]
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Communication/Lecture-Notes|Quantum Communication]]
+- [[DTU-10385-Quantum-Information-Technology/Quantum Information Technology (QIT) - Chronological Map of Content|Chronological Map]]
+- [[DTU-10385-Quantum-Information-Technology/Quantum Information Technology (QIT) - Exercise Map of Content|Exercise Map]]
 - [[DTU-10385-Quantum-Information-Technology/resources/EXAMS|Course Resources and Exams]]
