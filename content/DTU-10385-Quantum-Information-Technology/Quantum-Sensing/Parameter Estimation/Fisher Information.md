@@ -1,14 +1,16 @@
 ---
 aliases: [Fisher Information]
 tags: [dtu-10385, parameter-estimation, quantum-sensing]
-up: ["[[Parameter Estimation]]"]
+up: ["[[DTU-10385-Quantum-Information-Technology/Quantum-Sensing/Parameter Estimation/Parameter Estimation|Parameter Estimation]]"]
 ---
 
 # Fisher Information
 
 > [!info] Navigation
-> **Up:** [[Parameter Estimation]]
+> **Up:** [[DTU-10385-Quantum-Information-Technology/Quantum-Sensing/Parameter Estimation/Parameter Estimation|Parameter Estimation]]
 
 ## Lecture Notes
 
-![[Fisher Information - Source.pdf]]
+[[DTU-10385-Quantum-Information-Technology/Quantum-Sensing/Parameter Estimation/materials/Fisher Information - Source.pdf|Open PDF]]
+
+<iframe src="DTU-10385-Quantum-Information-Technology/Quantum-Sensing/Parameter Estimation/materials/Fisher Information - Source.pdf" title="Fisher Information - Source PDF"></iframe>

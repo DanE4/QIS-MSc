@@ -12,10 +12,10 @@ audience: "non-majors, majors"
 
 ## Quantum Communication
 
-- [[Quantum Randomness Certification]]: Information theory (Shannon/Min-entropy), extraction, and Device-Independent QRNG via the CHSH game
-- [[Quantum Key Distribution (QKD)]]: Perfect secrecy, the BB84 protocol, and Continuous Variable prepare-and-measure schemes
-- [[BB84 Protocol]]: The foundational QKD protocol
-- [[Quantum Repeaters]]: Extending quantum communication range
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Communication/Quantum Randomness Certification|Quantum Randomness Certification]]: Information theory (Shannon/Min-entropy), extraction, and Device-Independent QRNG via the CHSH game
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Communication/Quantum Key Distribution (QKD)|Quantum Key Distribution (QKD)]]: Perfect secrecy, the BB84 protocol, and Continuous Variable prepare-and-measure schemes
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Communication/BB84 Protocol|BB84 Protocol]]: The foundational QKD protocol
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Communication/Quantum Repeaters|Quantum Repeaters]]: Extending quantum communication range
 
 ## Course context
 

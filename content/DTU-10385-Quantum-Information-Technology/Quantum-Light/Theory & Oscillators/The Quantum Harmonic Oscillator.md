@@ -9,12 +9,10 @@ up: ["[[DTU-10385-Quantum-Information-Technology/Quantum-Light/Lecture-Notes|Qua
 > [!info] Navigation
 > **Up:** [[DTU-10385-Quantum-Information-Technology/Quantum-Light/Lecture-Notes|Quantum Light]]
 
-## Lecture & Exercise Notes
-
-## Exercises & Exams
+## Exercises
 
 *   **Lecture Notes (p. 68):** Prob. 3.1, 3.2 (Commutation relations and rotated quadratures).
 
-### Exercise Extracts
+[[DTU-10385-Quantum-Information-Technology/Quantum-Light/Theory & Oscillators/materials/The Quantum Harmonic Oscillator - Exercises.pdf|Open PDF]]
 
-![[The Quantum Harmonic Oscillator - Exercises.pdf]]
+<iframe src="DTU-10385-Quantum-Information-Technology/Quantum-Light/Theory & Oscillators/materials/The Quantum Harmonic Oscillator - Exercises.pdf" title="The Quantum Harmonic Oscillator - Exercises PDF"></iframe>

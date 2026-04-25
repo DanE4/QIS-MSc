@@ -11,4 +11,6 @@ up: ["[[DTU-10385-Quantum-Information-Technology/Quantum-Computing/Lecture-Notes
 
 ## Lecture Notes
 
-![[Measurement-Based Computing - Source.pdf]]
+[[DTU-10385-Quantum-Information-Technology/Quantum-Computing/materials/Measurement-Based Computing - Source.pdf|Open PDF]]
+
+<iframe src="DTU-10385-Quantum-Information-Technology/Quantum-Computing/materials/Measurement-Based Computing - Source.pdf" title="Measurement-Based Computing - Source PDF"></iframe>

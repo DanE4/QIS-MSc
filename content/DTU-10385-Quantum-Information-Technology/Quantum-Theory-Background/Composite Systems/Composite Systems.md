@@ -11,8 +11,8 @@ up: ["[[DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Lectu
 
 ## Subtopics
 
-- [[Tensor Products]]
-- [[Entanglement]]
-- [[Density Matrices]]
-- [[Partial Trace]]
-- [[Schmidt Decomposition]]
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Composite Systems/Tensor Products|Tensor Products]]
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Composite Systems/Entanglement|Entanglement]]
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Composite Systems/Density Matrices|Density Matrices]]
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Composite Systems/Partial Trace|Partial Trace]]
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Composite Systems/Schmidt Decomposition|Schmidt Decomposition]]

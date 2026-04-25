@@ -11,4 +11,6 @@ up: ["[[DTU-10385-Quantum-Information-Technology/Quantum-Computing/Lecture-Notes
 
 ## Lecture Notes
 
-![[GKP Encoding - Source.pdf]]
+[[DTU-10385-Quantum-Information-Technology/Quantum-Computing/materials/GKP Encoding - Source.pdf|Open PDF]]
+
+<iframe src="DTU-10385-Quantum-Information-Technology/Quantum-Computing/materials/GKP Encoding - Source.pdf" title="GKP Encoding - Source PDF"></iframe>

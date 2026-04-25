@@ -1,14 +1,16 @@
 ---
 aliases: [Hamiltonian]
 tags: [dtu-10385, quantum-light, theory-oscillators]
-up: ["[[Theory & Oscillators]]"]
+up: ["[[DTU-10385-Quantum-Information-Technology/Quantum-Light/Theory & Oscillators/Theory & Oscillators|Theory & Oscillators]]"]
 ---
 
 # Hamiltonian
 
 > [!info] Navigation
-> **Up:** [[Theory & Oscillators]]
+> **Up:** [[DTU-10385-Quantum-Information-Technology/Quantum-Light/Theory & Oscillators/Theory & Oscillators|Theory & Oscillators]]
 
 ## Lecture Notes
 
-![[Hamiltonian - Source.pdf]]
+[[DTU-10385-Quantum-Information-Technology/Quantum-Light/Theory & Oscillators/materials/Hamiltonian - Source.pdf|Open PDF]]
+
+<iframe src="DTU-10385-Quantum-Information-Technology/Quantum-Light/Theory & Oscillators/materials/Hamiltonian - Source.pdf" title="Hamiltonian - Source PDF"></iframe>

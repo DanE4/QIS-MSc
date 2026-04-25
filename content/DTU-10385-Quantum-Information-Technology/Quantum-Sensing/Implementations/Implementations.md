@@ -11,6 +11,6 @@ up: ["[[DTU-10385-Quantum-Information-Technology/Quantum-Sensing/Lecture-Notes|Q
 
 ## Subtopics
 
-- [[Optical Interferometry]]
-- [[Ramsey Measurements]]
-- [[NV Center Magnetometry]]
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Sensing/Implementations/Optical Interferometry|Optical Interferometry]]
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Sensing/Implementations/Ramsey Measurements|Ramsey Measurements]]
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Sensing/Implementations/NV Center Magnetometry|NV Center Magnetometry]]

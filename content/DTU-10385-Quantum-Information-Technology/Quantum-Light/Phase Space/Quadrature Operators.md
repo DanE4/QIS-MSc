@@ -1,14 +1,16 @@
 ---
 aliases: [Quadrature Operators]
 tags: [dtu-10385, phase-space, quantum-light]
-up: ["[[Phase Space]]"]
+up: ["[[DTU-10385-Quantum-Information-Technology/Quantum-Light/Phase Space/Phase Space|Phase Space]]"]
 ---
 
 # Quadrature Operators
 
 > [!info] Navigation
-> **Up:** [[Phase Space]]
+> **Up:** [[DTU-10385-Quantum-Information-Technology/Quantum-Light/Phase Space/Phase Space|Phase Space]]
 
 ## Lecture Notes
 
-![[Quadrature Operators - Source.pdf]]
+[[DTU-10385-Quantum-Information-Technology/Quantum-Light/Phase Space/materials/Quadrature Operators - Source.pdf|Open PDF]]
+
+<iframe src="DTU-10385-Quantum-Information-Technology/Quantum-Light/Phase Space/materials/Quadrature Operators - Source.pdf" title="Quadrature Operators - Source PDF"></iframe>

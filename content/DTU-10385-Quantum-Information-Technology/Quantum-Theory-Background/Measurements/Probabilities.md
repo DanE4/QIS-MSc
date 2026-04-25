@@ -1,14 +1,16 @@
 ---
 aliases: [Probabilities]
 tags: [dtu-10385, measurements, quantum-theory-background]
-up: ["[[Measurements]]"]
+up: ["[[DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Measurements/Measurements|Measurements]]"]
 ---
 
 # Probabilities
 
 > [!info] Navigation
-> **Up:** [[Measurements]]
+> **Up:** [[DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Measurements/Measurements|Measurements]]
 
 ## Lecture Notes
 
-![[Probabilities - Source.pdf]]
+[[DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Measurements/materials/Probabilities - Source.pdf|Open PDF]]
+
+<iframe src="DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Measurements/materials/Probabilities - Source.pdf" title="Probabilities - Source PDF"></iframe>

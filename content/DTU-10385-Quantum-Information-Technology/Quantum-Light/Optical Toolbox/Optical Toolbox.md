@@ -11,7 +11,7 @@ up: ["[[DTU-10385-Quantum-Information-Technology/Quantum-Light/Lecture-Notes|Qua
 
 ## Subtopics
 
-- [[Beam Splitters]]
-- [[Phase Shifters]]
-- [[Wave Plates]]
-- [[Homodyne Detection]]
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Light/Optical Toolbox/Beam Splitters|Beam Splitters]]
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Light/Optical Toolbox/Phase Shifters|Phase Shifters]]
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Light/Optical Toolbox/Wave Plates|Wave Plates]]
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Light/Optical Toolbox/Homodyne Detection|Homodyne Detection]]

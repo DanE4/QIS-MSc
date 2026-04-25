@@ -11,4 +11,6 @@ up: ["[[DTU-10385-Quantum-Information-Technology/Quantum-Communication/Lecture-N
 
 ## Lecture Notes
 
-![[Quantum Repeaters - Source.pdf]]
+[[DTU-10385-Quantum-Information-Technology/Quantum-Communication/materials/Quantum Repeaters - Source.pdf|Open PDF]]
+
+<iframe src="DTU-10385-Quantum-Information-Technology/Quantum-Communication/materials/Quantum Repeaters - Source.pdf" title="Quantum Repeaters - Source PDF"></iframe>

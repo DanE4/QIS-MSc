@@ -11,4 +11,6 @@ up: ["[[DTU-10385-Quantum-Information-Technology/Quantum-Computing/Lecture-Notes
 
 ## Lecture Notes
 
-![[Continuous Variable Computing - Source.pdf]]
+[[DTU-10385-Quantum-Information-Technology/Quantum-Computing/materials/Continuous Variable Computing - Source.pdf|Open PDF]]
+
+<iframe src="DTU-10385-Quantum-Information-Technology/Quantum-Computing/materials/Continuous Variable Computing - Source.pdf" title="Continuous Variable Computing - Source PDF"></iframe>

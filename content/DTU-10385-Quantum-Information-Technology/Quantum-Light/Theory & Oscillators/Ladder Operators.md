@@ -1,14 +1,16 @@
 ---
 aliases: [Ladder Operators]
 tags: [dtu-10385, quantum-light, theory-oscillators]
-up: ["[[Theory & Oscillators]]"]
+up: ["[[DTU-10385-Quantum-Information-Technology/Quantum-Light/Theory & Oscillators/Theory & Oscillators|Theory & Oscillators]]"]
 ---
 
 # Ladder Operators
 
 > [!info] Navigation
-> **Up:** [[Theory & Oscillators]]
+> **Up:** [[DTU-10385-Quantum-Information-Technology/Quantum-Light/Theory & Oscillators/Theory & Oscillators|Theory & Oscillators]]
 
 ## Lecture Notes
 
-![[Ladder Operators - Source.pdf]]
+[[DTU-10385-Quantum-Information-Technology/Quantum-Light/Theory & Oscillators/materials/Ladder Operators - Source.pdf|Open PDF]]
+
+<iframe src="DTU-10385-Quantum-Information-Technology/Quantum-Light/Theory & Oscillators/materials/Ladder Operators - Source.pdf" title="Ladder Operators - Source PDF"></iframe>

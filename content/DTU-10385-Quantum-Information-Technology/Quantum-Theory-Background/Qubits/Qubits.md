@@ -11,16 +11,14 @@ up: ["[[DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Lectu
 
 ## Subtopics
 
-- [[Bloch Sphere]]
-- [[Computational Basis]]
-- [[Pauli Operators (X, Y, Z)]]
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Qubits/Bloch Sphere|Bloch Sphere]]
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Qubits/Computational Basis|Computational Basis]]
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Qubits/Pauli Operators (X, Y, Z)|Pauli Operators (X, Y, Z)]]
 
-## Lecture & Exercise Notes
-
-## Exercises & Exams
+## Exercises
 
 *   **Lecture Notes (pp. 23-24):** Prob. 2.1-2.3 (Bloch sphere mapping and density matrices), Prob. 2.4, 2.6 (Pauli operators), Prob. 2.8 (Bloch sphere rotations), Prob. 2.9 (Purity of states).
 
-### Exercise Extracts
+[[DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Qubits/materials/Qubits - Exercises.pdf|Open PDF]]
 
-![[Qubits - Exercises.pdf]]
+<iframe src="DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Qubits/materials/Qubits - Exercises.pdf" title="Qubits - Exercises PDF"></iframe>

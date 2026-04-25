@@ -7,7 +7,7 @@ week: "overview"
 audience: "non-majors, majors"
 ---
 
-> [!summary] TL;DR
+> [!summary] Course summary
 > This course links core quantum information ideas to photonics, sensing, metrology, and communication technologies.
 
 ## Official DTU source
@@ -46,10 +46,6 @@ audience: "non-majors, majors"
 - Design and analyze quantum sensing schemes.
 - Explain central concepts in quantum communication, teleportation, and cryptography.
 - Analyze continuous-variable cryptography and QRNG schemes.
-
-## Related shared concepts
-
-- Add links to real shared concept notes in `content/Shared-Wiki/` as they are created.
 
 ## Navigation
 

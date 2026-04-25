@@ -7,9 +7,8 @@ cssclasses: dashboard
 # Quantum Information Technology
 
 > [!abstract] Course Dashboard
-> Welcome to the Quantum Information Technology (QIT) vault. 
-> - **Theory & Course Structure**: [[Quantum Information Technology (QIT) - Chronological Map of Content|Chronological Map]]
-> - **Problems & Exams**: [[Quantum Information Technology (QIT) - Exercise Map of Content|Exercise Map]]
+> - **Theory & Course Structure**: [[DTU-10385-Quantum-Information-Technology/Quantum Information Technology (QIT) - Chronological Map of Content|Chronological Map]]
+> - **Problems & Exams**: [[DTU-10385-Quantum-Information-Technology/Quantum Information Technology (QIT) - Exercise Map of Content|Exercise Map]]
 
 ## Subtopics
 

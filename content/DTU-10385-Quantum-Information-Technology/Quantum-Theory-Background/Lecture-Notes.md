@@ -12,11 +12,11 @@ audience: "non-majors, majors"
 
 ## Quantum Theory Background
 
-- [[Fundamentals and Evolution]]: Hilbert spaces, state vectors, and the Schrödinger Equation
-- [[Measurements and Observables]]: POVMs, projective measurements, and probability
-- [[Continuous Spectra and Wave Functions]]: Position/momentum operators and continuous variables
-- [[Qubits]]: The Bloch sphere and Pauli operators
-- [[Entanglement and Density Operators]]: Schmidt decomposition, partial trace, mixed states, fidelity/trace distance
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Fundamentals/Fundamentals and Evolution|Fundamentals and Evolution]]: Hilbert spaces, state vectors, and the Schrödinger Equation
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Measurements/Measurements and Observables|Measurements and Observables]]: POVMs, projective measurements, and probability
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Fundamentals/Continuous Spectra and Wave Functions|Continuous Spectra and Wave Functions]]: Position/momentum operators and continuous variables
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Qubits/Qubits|Qubits]]: The Bloch sphere and Pauli operators
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Composite Systems/Entanglement and Density Operators|Entanglement and Density Operators]]: Schmidt decomposition, partial trace, mixed states, fidelity/trace distance
 
 ## Course context
 

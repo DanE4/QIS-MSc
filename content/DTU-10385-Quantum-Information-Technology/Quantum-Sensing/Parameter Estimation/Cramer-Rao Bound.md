@@ -1,14 +1,16 @@
 ---
 aliases: [Cramer-Rao Bound]
 tags: [dtu-10385, parameter-estimation, quantum-sensing]
-up: ["[[Parameter Estimation]]"]
+up: ["[[DTU-10385-Quantum-Information-Technology/Quantum-Sensing/Parameter Estimation/Parameter Estimation|Parameter Estimation]]"]
 ---
 
 # Cramer-Rao Bound
 
 > [!info] Navigation
-> **Up:** [[Parameter Estimation]]
+> **Up:** [[DTU-10385-Quantum-Information-Technology/Quantum-Sensing/Parameter Estimation/Parameter Estimation|Parameter Estimation]]
 
 ## Lecture Notes
 
-![[Cramer-Rao Bound - Source.pdf]]
+[[DTU-10385-Quantum-Information-Technology/Quantum-Sensing/Parameter Estimation/materials/Cramer-Rao Bound - Source.pdf|Open PDF]]
+
+<iframe src="DTU-10385-Quantum-Information-Technology/Quantum-Sensing/Parameter Estimation/materials/Cramer-Rao Bound - Source.pdf" title="Cramer-Rao Bound - Source PDF"></iframe>

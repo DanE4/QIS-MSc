@@ -1,14 +1,16 @@
 ---
 aliases: [Beam Splitters]
 tags: [dtu-10385, optical-toolbox, quantum-light]
-up: ["[[Optical Toolbox]]"]
+up: ["[[DTU-10385-Quantum-Information-Technology/Quantum-Light/Optical Toolbox/Optical Toolbox|Optical Toolbox]]"]
 ---
 
 # Beam Splitters
 
 > [!info] Navigation
-> **Up:** [[Optical Toolbox]]
+> **Up:** [[DTU-10385-Quantum-Information-Technology/Quantum-Light/Optical Toolbox/Optical Toolbox|Optical Toolbox]]
 
 ## Lecture Notes
 
-![[Beam Splitters - Source.pdf]]
+[[DTU-10385-Quantum-Information-Technology/Quantum-Light/Optical Toolbox/materials/Beam Splitters - Source.pdf|Open PDF]]
+
+<iframe src="DTU-10385-Quantum-Information-Technology/Quantum-Light/Optical Toolbox/materials/Beam Splitters - Source.pdf" title="Beam Splitters - Source PDF"></iframe>

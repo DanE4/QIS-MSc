@@ -12,13 +12,13 @@ audience: "non-majors, majors"
 
 ## Quantum Light
 
-- [[The Quantum Harmonic Oscillator]]: Ladder operators, Fock states, and wavefunctions
-- [[Coherent States]]: Displaced vacuum and Poisson distributions
-- [[Phase Space]]: Quadrature operators and Wigner / P / Q quasiprobability distributions
-- [[Advanced Quantum States]]: Squeezed states, Cat states, and Thermal (Gibbs) states
-- [[The Optical Toolbox]]: Polarisation, phase shifters, beam splitters, and wave plates
-- [[Encoding and Generating States]]: Qubits encoded in continuous variables (GKP) and SPDC
-- [[Measuring Light]]: Bucket single-photon detection, homodyne detection, and heterodyne detection
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Light/Theory & Oscillators/The Quantum Harmonic Oscillator|The Quantum Harmonic Oscillator]]: Ladder operators, Fock states, and wavefunctions
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Light/Quantum States/Coherent States|Coherent States]]: Displaced vacuum and Poisson distributions
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Light/Phase Space/Phase Space|Phase Space]]: Quadrature operators and Wigner / P / Q quasiprobability distributions
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Light/Quantum States/Advanced Quantum States|Advanced Quantum States]]: Squeezed states, Cat states, and Thermal (Gibbs) states
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Light/Optical Toolbox/The Optical Toolbox|The Optical Toolbox]]: Polarisation, phase shifters, beam splitters, and wave plates
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Light/Optical Toolbox/Encoding and Generating States|Encoding and Generating States]]: Qubits encoded in continuous variables (GKP) and SPDC
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Light/Optical Toolbox/Measuring Light|Measuring Light]]: Bucket single-photon detection, homodyne detection, and heterodyne detection
 
 ## Course context
 

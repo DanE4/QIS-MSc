@@ -1,14 +1,16 @@
 ---
 aliases: [Hilbert Spaces & States]
 tags: [dtu-10385, fundamentals, quantum-theory-background]
-up: ["[[Fundamentals]]"]
+up: ["[[DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Fundamentals/Fundamentals|Fundamentals]]"]
 ---
 
 # Hilbert Spaces & States
 
 > [!info] Navigation
-> **Up:** [[Fundamentals]]
+> **Up:** [[DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Fundamentals/Fundamentals|Fundamentals]]
 
 ## Lecture Notes
 
-![[Hilbert Spaces & States - Source.pdf]]
+[[DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Fundamentals/materials/Hilbert Spaces & States - Source.pdf|Open PDF]]
+
+<iframe src="DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Fundamentals/materials/Hilbert Spaces & States - Source.pdf" title="Hilbert Spaces & States - Source PDF"></iframe>

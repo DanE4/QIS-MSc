@@ -9,12 +9,10 @@ up: ["[[DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Lectu
 > [!info] Navigation
 > **Up:** [[DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Lecture-Notes|Quantum Theory Background]]
 
-## Lecture & Exercise Notes
-
-## Exercises & Exams
+## Exercises
 
 *   **Lecture Notes (pp. 23-24):** Prob. 2.7 (Partial trace and entanglement), Prob. 2.11 (Positivity of reduced states).
 
-### Exercise Extracts
+[[DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Composite Systems/materials/Entanglement and Density Operators - Exercises.pdf|Open PDF]]
 
-![[Entanglement and Density Operators - Exercises.pdf]]
+<iframe src="DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Composite Systems/materials/Entanglement and Density Operators - Exercises.pdf" title="Entanglement and Density Operators - Exercises PDF"></iframe>

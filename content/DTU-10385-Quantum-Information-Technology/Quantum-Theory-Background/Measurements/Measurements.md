@@ -11,7 +11,7 @@ up: ["[[DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Lectu
 
 ## Subtopics
 
-- [[Observables]]
-- [[POVMs]]
-- [[Projective Measurements]]
-- [[Probabilities]]
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Measurements/Observables|Observables]]
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Measurements/POVMs|POVMs]]
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Measurements/Projective Measurements|Projective Measurements]]
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Theory-Background/Measurements/Probabilities|Probabilities]]

@@ -1,14 +1,16 @@
 ---
 aliases: [Entanglement-Enhanced]
 tags: [dtu-10385, precision-scaling, quantum-sensing]
-up: ["[[Precision Scaling]]"]
+up: ["[[DTU-10385-Quantum-Information-Technology/Quantum-Sensing/Precision Scaling/Precision Scaling|Precision Scaling]]"]
 ---
 
 # Entanglement-Enhanced
 
 > [!info] Navigation
-> **Up:** [[Precision Scaling]]
+> **Up:** [[DTU-10385-Quantum-Information-Technology/Quantum-Sensing/Precision Scaling/Precision Scaling|Precision Scaling]]
 
 ## Lecture Notes
 
-![[Entanglement-Enhanced - Source.pdf]]
+[[DTU-10385-Quantum-Information-Technology/Quantum-Sensing/Precision Scaling/materials/Entanglement-Enhanced - Source.pdf|Open PDF]]
+
+<iframe src="DTU-10385-Quantum-Information-Technology/Quantum-Sensing/Precision Scaling/materials/Entanglement-Enhanced - Source.pdf" title="Entanglement-Enhanced - Source PDF"></iframe>

@@ -11,4 +11,6 @@ up: ["[[DTU-10385-Quantum-Information-Technology/Quantum-Communication/Lecture-N
 
 ## Lecture Notes
 
-![[BB84 Protocol - Source.pdf]]
+[[DTU-10385-Quantum-Information-Technology/Quantum-Communication/materials/BB84 Protocol - Source.pdf|Open PDF]]
+
+<iframe src="DTU-10385-Quantum-Information-Technology/Quantum-Communication/materials/BB84 Protocol - Source.pdf" title="BB84 Protocol - Source PDF"></iframe>

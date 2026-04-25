@@ -1,14 +1,16 @@
 ---
 aliases: [Ramsey Measurements]
 tags: [dtu-10385, implementations, quantum-sensing]
-up: ["[[Implementations]]"]
+up: ["[[DTU-10385-Quantum-Information-Technology/Quantum-Sensing/Implementations/Implementations|Implementations]]"]
 ---
 
 # Ramsey Measurements
 
 > [!info] Navigation
-> **Up:** [[Implementations]]
+> **Up:** [[DTU-10385-Quantum-Information-Technology/Quantum-Sensing/Implementations/Implementations|Implementations]]
 
 ## Lecture Notes
 
-![[Ramsey Measurements - Source.pdf]]
+[[DTU-10385-Quantum-Information-Technology/Quantum-Sensing/Implementations/materials/Ramsey Measurements - Source.pdf|Open PDF]]
+
+<iframe src="DTU-10385-Quantum-Information-Technology/Quantum-Sensing/Implementations/materials/Ramsey Measurements - Source.pdf" title="Ramsey Measurements - Source PDF"></iframe>

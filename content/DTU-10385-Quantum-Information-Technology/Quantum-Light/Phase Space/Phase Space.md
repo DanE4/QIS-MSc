@@ -11,16 +11,14 @@ up: ["[[DTU-10385-Quantum-Information-Technology/Quantum-Light/Lecture-Notes|Qua
 
 ## Subtopics
 
-- [[Wigner Function]]
-- [[Quadrature Operators]]
-- [[Characteristic Function]]
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Light/Phase Space/Wigner Function|Wigner Function]]
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Light/Phase Space/Quadrature Operators|Quadrature Operators]]
+- [[DTU-10385-Quantum-Information-Technology/Quantum-Light/Phase Space/Characteristic Function|Characteristic Function]]
 
-## Lecture & Exercise Notes
-
-## Exercises & Exams
+## Exercises
 
 *   **Lecture Notes (p. 68):** Prob. 3.4 (Reality of the Wigner function), Prob. 3.5 (Wigner function marginals).
 
-### Exercise Extracts
+[[DTU-10385-Quantum-Information-Technology/Quantum-Light/Phase Space/materials/Phase Space - Exercises.pdf|Open PDF]]
 
-![[Phase Space - Exercises.pdf]]
+<iframe src="DTU-10385-Quantum-Information-Technology/Quantum-Light/Phase Space/materials/Phase Space - Exercises.pdf" title="Phase Space - Exercises PDF"></iframe>

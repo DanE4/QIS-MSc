@@ -1,14 +1,16 @@
 ---
 aliases: [Characteristic Function]
 tags: [dtu-10385, phase-space, quantum-light]
-up: ["[[Phase Space]]"]
+up: ["[[DTU-10385-Quantum-Information-Technology/Quantum-Light/Phase Space/Phase Space|Phase Space]]"]
 ---
 
 # Characteristic Function
 
 > [!info] Navigation
-> **Up:** [[Phase Space]]
+> **Up:** [[DTU-10385-Quantum-Information-Technology/Quantum-Light/Phase Space/Phase Space|Phase Space]]
 
 ## Lecture Notes
 
-![[Characteristic Function - Source.pdf]]
+[[DTU-10385-Quantum-Information-Technology/Quantum-Light/Phase Space/materials/Characteristic Function - Source.pdf|Open PDF]]
+
+<iframe src="DTU-10385-Quantum-Information-Technology/Quantum-Light/Phase Space/materials/Characteristic Function - Source.pdf" title="Characteristic Function - Source PDF"></iframe>
